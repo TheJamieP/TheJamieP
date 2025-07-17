@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a golfing script written in LUA for the popular GTA 5 Modding framework FiveM.<br>🌱 I’m currently learning Next and Java.<br>💬 Ask me about any of my public repos and I may be able to help.<br>⚡ Fun fact If a sperm whale was placed onto a football pitch. They'd have to replace the football pitch.
+🔭 I’m currently working on a implementation for Tictactoe using SDL2 in C<br>🌱 I’m currently learning C.<br>💬 Ask me about any of my public repos and I may be able to help.<br>⚡ Fun fact If a sperm whale was placed onto a football pitch. They'd have to replace the football pitch.
 
 
 ## 🌐 Socials:
